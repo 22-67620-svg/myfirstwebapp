@@ -61,8 +61,8 @@ const server = http.createServer((req, res) => {
           <p>Welcome to my page.</p>
           <p>I am <strong>Jhasmine Dimaano</strong> from <strong>BSIT BA - 4102</strong></p>
           <blockquote>
-            “You only live once, but if you do it right, once is enough.”<br>
-            ― Mae West
+            "You only live once, but if you do it right, once is enough."<br>
+            - Mae West
           </blockquote>
         </div>
       </body>
